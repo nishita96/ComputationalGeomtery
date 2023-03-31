@@ -1,5 +1,4 @@
 # ComputationalGeomtery
-=======================
 
 
 
@@ -8,7 +7,7 @@
 Install
 =======
 
-Download the software Processing from [a link](https://processing.org/download)
+Download the software Processing from [https://processing.org/download](https://processing.org/download)
 
 Usage
 =====
